@@ -1,0 +1,21 @@
+.footerlist{
+    text-decoration: none;
+    list-style: none;
+    font-size: 20px;
+}
+.footer{
+    background-color: rgba(254, 229, 154, 1);
+    height: 350px;
+    padding-left: 10%;
+    justify-content: space-between;
+}
+.listHeader{
+    font-size: 32px;
+    font-weight: 500;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+.copyright{
+    margin-top: 50px;
+    margin-left: 30%;
+}

@@ -1,0 +1,30 @@
+.section3{
+    width: 80%;
+    margin-left: 10%;
+    margin-bottom: 100px;
+}
+.tracingh1{
+    font-size: 36px;
+    font-weight: 500;
+}
+.tracingp{
+    font-size: 20px;
+    font-weight: 300;
+    margin: 10px 0 10px 0;
+}
+.btn{
+    padding: 15px 20px;
+    border: none;
+    border-radius: 30px;
+    background-color: rgba(253, 194, 18, 1);
+    margin-right: 20px;
+    font-size: 18px;
+    margin-top: 20px;
+}
+.tracingimg{
+    padding-bottom: 10px;
+}
+.section3img{
+    padding-left: 100px;
+    padding-top: 20px;
+}
